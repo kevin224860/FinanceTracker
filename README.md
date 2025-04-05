@@ -1,6 +1,6 @@
-# capstone
+# capstone 2.0
 
-This is a stock manager web application that will help give suggestions to users to help diversify their portfolio
+This is a Finance Tracking App
 
 ## Environment Configuration
 create 2 .env files one in the frontend and one in the backend directories.
